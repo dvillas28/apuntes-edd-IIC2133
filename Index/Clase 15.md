@@ -1,3 +1,3 @@
-#clase15
+#clase15 #index
 
 - [[Algoritmos Codiciosos]]

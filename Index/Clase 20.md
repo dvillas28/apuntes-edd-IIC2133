@@ -1,3 +1,0 @@
-#clase20
-
-- [[Grafos]]
