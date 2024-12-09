@@ -1,5 +1,6 @@
 #clase19
 
+- Algoritmo de **búsqueda en profundidad**
 - *Depth First Search*
 - la estrategia es avanzar por aristas adyacentes hasta más no poder 
 - luego de agotar esa ruta, se retrocede y se exploran otras
